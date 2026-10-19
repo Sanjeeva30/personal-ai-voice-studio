@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Personal AI Voice Studio</title>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Mon, 19 Oct 2026 21:19:19 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Sanjeeva30/personal-ai-voice-studio/releases/download/v0.1.3/Personal-AI-Voice-Studio-0.1.3-arm64-unsigned.dmg" length="254501847" type="application/octet-stream" sparkle:edSignature="DpKZMZl87J97i9G8zNGQZe9cFLaLzZ3qCO57DhXSvats2W2rX/TGv3iqJDtyF0fRF8FmHhozunZ57M4NxKxwCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: qkkTH89tBWUfpwLkZOuBv5QSYRfA0K93m4miLVp1A+5/N7lgpqDaVSVt5w0X2OQ9gWedV8zPe2tNd0V+JU/1Bg==
+length: 1108
+-->
