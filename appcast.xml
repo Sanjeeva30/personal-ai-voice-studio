@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Personal AI Voice Studio</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Mon, 19 Oct 2026 21:19:19 +0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Sat, 24 Oct 2026 18:27:34 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Sanjeeva30/personal-ai-voice-studio/releases/download/v0.1.3/Personal-AI-Voice-Studio-0.1.3-arm64-unsigned.dmg" length="254501847" type="application/octet-stream" sparkle:edSignature="DpKZMZl87J97i9G8zNGQZe9cFLaLzZ3qCO57DhXSvats2W2rX/TGv3iqJDtyF0fRF8FmHhozunZ57M4NxKxwCQ=="></enclosure>
+            <enclosure url="https://github.com/Sanjeeva30/personal-ai-voice-studio/releases/download/v0.2.0/Personal-AI-Voice-Studio-0.2.0-arm64-unsigned.dmg" length="264049946" type="application/octet-stream" sparkle:edSignature="XLMWhK/K1MftsdMXA/aNXfNA/JMmew/K+pEOKYXA2x2U2ZtZ8iW5bvZ1KQChTzLov9JOQpfcS6WJv/rG+si0CQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qkkTH89tBWUfpwLkZOuBv5QSYRfA0K93m4miLVp1A+5/N7lgpqDaVSVt5w0X2OQ9gWedV8zPe2tNd0V+JU/1Bg==
+edSignature: 7O+zBM69643dqi+9V1SFv6xVJ/X+FU2hH/Yw7sOhDDbwAmydRGomElmuqClcdvrwWzwC5Ob3yi7yT6ubYpWFDg==
 length: 1108
 -->
